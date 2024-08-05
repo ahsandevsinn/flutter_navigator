@@ -1,7 +1,8 @@
 name: flutter_navigator
-description: "A new Flutter package project."
+description: The `flutter_navigator` package simplifies and streamlines navigation in Flutter applications. It provides a reusable and cleaner way to manage navigation between pages, reducing boilerplate code and improving code maintainability. With `flutter_navigator`, you can navigate between screens using a simplified syntax, enhancing both development speed and readability.
 version: 0.0.1
-homepage:
+homepage: https://github.com/ahsandevsinn/flutter_navigator.git
+# author: Your Name 
 
 environment:
   sdk: '>=3.4.1 <4.0.0'
